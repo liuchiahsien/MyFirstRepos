@@ -1,2 +1,2 @@
-# MySecRepos
-This is my second repository
+# MyFirstRepos
+This is my first repository
